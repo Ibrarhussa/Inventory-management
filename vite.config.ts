@@ -11,4 +11,5 @@ export default {
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: '/Inventory-management/',
 } satisfies UserConfig
